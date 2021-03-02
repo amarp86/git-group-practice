@@ -1,6 +1,7 @@
 const hello = () => {
-  console.log("hello world");
-  console.log("Hanna was hereeee!");
+
+  console.log("hello world, this is jason!");
+
 };
 
 hello();
