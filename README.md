@@ -2,6 +2,8 @@
 
 # This will be our awesome project!
 
-#sorry guys -jq
+## This group roxxx!
+
+# sorry guys -jq
 
 # group exercise
