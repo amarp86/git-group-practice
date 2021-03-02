@@ -3,3 +3,5 @@
 # This will be our awesome project!
 
 #sorry guys -jq
+
+# group exercise
